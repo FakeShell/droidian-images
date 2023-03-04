@@ -1,7 +1,7 @@
 # This file has been generated automatically by droidian-new-device
 
-# xiaomi lavender
-xiaomi_lavender:
+# oneplus3
+oneplus3:
   type: image
   arch: arm64
   edition: phosh
@@ -10,13 +10,6 @@ xiaomi_lavender:
   use_internal_repository: false
 
   packages:
-    - adaptation-droidian-lavender
-    - adaptation-lavender-configs
-    - droidian-sysfs-torch
-    - linux-bootimage-4.4.192-xiaomi-lavender
-    - linux-bootimage-xiaomi-lavender
-    - linux-headers-4.4.192-xiaomi-lavender
-    - linux-headers-xiaomi-lavender
-    - linux-image-4.4.192-xiaomi-lavender
-    - linux-image-xiaomi-lavender
+    - adaptation-droidian-oneplus3
+    - adaptation-oneplus3-configs
     - qtwayland5
