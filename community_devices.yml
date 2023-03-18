@@ -12,4 +12,10 @@ oneplus3:
   packages:
     - adaptation-droidian-oneplus3
     - adaptation-oneplus3-configs
+    - linux-bootimage-3.18.120-oneplus-3
+    - linux-bootimage-oneplus-3
+    - linux-headers-3.18.120-oneplus-3
+    - linux-headers-oneplus-3
+    - linux-image-3.18.120-oneplus-3
+    - linux-image-oneplus-3
     - qtwayland5
