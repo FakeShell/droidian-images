@@ -18,4 +18,5 @@ oneplus3:
     - linux-headers-oneplus-3
     - linux-image-3.18.120-oneplus-3
     - linux-image-oneplus-3
+    - droidian-sysfs-torch
     - qtwayland5
