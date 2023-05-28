@@ -1,8 +1,8 @@
 # This file has been generated automatically by droidian-new-device
 
-# oneplus3
-oneplus3:
-  type: image
+# oneplus-oneplus3
+oneplus-oneplus3:
+  type: rootfs
   arch: arm64
   edition: phosh
   variant: phone
@@ -12,17 +12,11 @@ oneplus3:
   packages:
     - adaptation-droidian-oneplus3
     - adaptation-oneplus3-configs
-    - linux-bootimage-3.18.120-oneplus-3
-    - linux-bootimage-oneplus-3
-    - linux-headers-3.18.120-oneplus-3
-    - linux-headers-oneplus-3
-    - linux-image-3.18.120-oneplus-3
-    - linux-image-oneplus-3
-    - droidian-sysfs-torch
-    - qtwayland5
+    - linux-image-3.18.120-oneplus-oneplus3
+    - linux-headers-3.18.120-oneplus-oneplus3
 
-oneplus3-cutie:
-  type: image
+oneplus-oneplus3-cutie:
+  type: rootfs
   arch: arm64
   edition: cutie
   variant: phone
@@ -32,11 +26,5 @@ oneplus3-cutie:
   packages:
     - adaptation-droidian-oneplus3
     - adaptation-oneplus3-configs
-    - linux-bootimage-3.18.120-oneplus-3
-    - linux-bootimage-oneplus-3
-    - linux-headers-3.18.120-oneplus-3
-    - linux-headers-oneplus-3
-    - linux-image-3.18.120-oneplus-3
-    - linux-image-oneplus-3
-    - droidian-sysfs-torch
-    - qtwayland5
+    - linux-image-3.18.120-oneplus-oneplus3
+    - linux-headers-3.18.120-oneplus-oneplus3

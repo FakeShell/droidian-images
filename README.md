@@ -9,11 +9,7 @@ Droidian is a GNU/Linux distribution based on top of Mobian, a Debian-based dist
 
 ## Installation
  * Download the latest build here: https://github.com/droidian-oneplus3/droidian-images/releases
- * Unpack the zip file
- * Boot to fastboot
- * on Linux run flash_all.sh script:
-    <pre><code>./flash_all.sh</code></pre>
- * on Windows run flash_all.bat
+ * Boot to your favorite recovery and flash the image.
  * Reboot to system and "DO NOT PRESS THE POWER BUTTON WHEN SCREEN IS BLACK or BLANK, BE PATIENT"
  * Support group: https://t.me/DroidianLinux
 
