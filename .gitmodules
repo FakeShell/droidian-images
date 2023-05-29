@@ -4,7 +4,7 @@
         branch = refactor
 [submodule "android-recovery-flashing-template"]
 	path = android-recovery-flashing-template
-	url = https://github.com/droidian-releng/android-recovery-flashing-template.git
+	url = https://github.com/droidian-oneplus3/android-recovery-flashing-template.git
         branch = master
 [submodule "android-image-flashing-template"]
 	path = android-image-flashing-template
